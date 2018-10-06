@@ -1,2 +1,2 @@
 Hello World
-feature1 test-v1
+feature1 test
